@@ -1,0 +1,19 @@
+{
+  "name": "dell-bundler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundler.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.11.5",
+    "@babel/parser": "^7.11.5",
+    "@babel/preset-env": "^7.11.5",
+    "@babel/traverse": "^7.11.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
